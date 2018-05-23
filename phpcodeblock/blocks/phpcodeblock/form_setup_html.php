@@ -13,7 +13,7 @@
     </div>
 
     <div class="form-group">
-        <div id="ccm-block-phpcodeblock-value"><?php echo h($content); ?></div>
+        <div id="ccm-block-phpcodeblock-value"><?php echo isset($content) ? h($content) : ''; ?></div>
         <textarea style="display: none" id="ccm-block-phpcodeblock-value-textarea" name="content" autofocus></textarea>
     </div>
 </fieldset>
