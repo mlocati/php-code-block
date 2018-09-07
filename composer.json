@@ -1,0 +1,25 @@
+{
+  "name": "ciolben/phpcodeblock",
+  "description": "Provides a HTML+PHP script block for concrete5.",
+  "type": "concrete5-package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Loïc Barben",
+      "email": "loic.barben@a3.epfl.ch",
+      "role": "author"
+    }
+  ],
+  "homepage": "https://github.com/ciolben/php-code-block",
+    "support": {
+      "issues": "https://github.com/ciolben/php-code-block/issues",
+      "source": "https://github.com/ciolben/php-code-block"
+  },
+  "keywords": [
+    "concrete5",
+    "package",
+    "html",
+    "php",
+    "block"
+  ]
+}
